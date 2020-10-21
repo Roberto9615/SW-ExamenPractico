@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    background: url(imagen.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    margin-right: auto;
+    color: black;
+    font:bold 20px verdana, sans-serif;
+}
+
+h3{
+    margin-left: auto;
+    font: bold 20px verdana, sans-serif;
+    color: black;
+}
+
+.btn{
+    color: black;
+    background-color: white;
+}
